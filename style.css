@@ -125,7 +125,7 @@ p {
   top: 50%;
   left: 2.3%;
   transform: translateY(1%);
-  max-width: 20em;
+  max-width: 10em;
   
   font-size: clamp(1em, 1.2em, 20em);
   color: #333;
@@ -181,3 +181,4 @@ p {
 .btn-primary:hover {
   background-color: #0b2f4d;
 }
+
